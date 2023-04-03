@@ -23,7 +23,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pentagon797)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pentagon797)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pentagon797&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pentagon797&theme=dark)](https://git.io/streak-stats)
  
 Спасибо, что зашли на мой профиль!
