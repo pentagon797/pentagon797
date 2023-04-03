@@ -1,4 +1,16 @@
-# Привет, я [ваше имя], и я разработчик ПО!
+# Здравствуйте!
+
+## Я начинающий фронтенд-разботчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+
+- :telescope: В данный момент обучаюсь на курсе "Фронтенд-разработчик Bootcamp" в Яндекс.Практикум.
+
+- :zap: В свободное время играю в игры и сижу в соц. сетях.
+
+- :mailbox: Как со мной связаться: 
+ <a href="https://t.me/pentagon797"><img src="https://www.svgrepo.com/show/452115/telegram.svg" alt="telegram" width="20" height="20"></a>
+ <a href="https://vk.com/e_nikulenko"><img src="https://www.svgrepo.com/show/349554/vk.svg" alt="vk" width="20" height="20"></a>
+
+## Список используемых мной технологий
 
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -9,14 +21,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </div>
 
-Я имею большой опыт в разработке приложений с использованием HTML, CSS, JavaScript, React, Redux, TypeScript. В моих проектах я стараюсь использовать лучшие практики и инструменты, чтобы создать высококачественные и эффективные решения.
-
-## Мои проекты
-
-* Список проектов с ссылками на репозитории
-
-## Мои контакты
-
-* список контактов (email, LinkedIn, Telegram, etc.)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pentagon797)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pentagon797)](https://git.io/streak-stats)
+ 
 Спасибо, что зашли на мой профиль!
